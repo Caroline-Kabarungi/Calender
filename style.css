@@ -1,0 +1,35 @@
+* {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+ul{
+    list-style-type: none;
+
+}
+.month{
+    padding: 20px 25px;
+    width :90% ;
+    background: white;
+    text-align: center;
+}
+.month ul{
+    margin: 0;
+    padding:0;
+
+}
+.month ul li{
+    colour:white;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.month .prev{
+    float: right;
+    padding-top: 10px;
+}
+.weekdays{
+    margin: 0;
+    padding: 10px 0;
+    background:white
+
+}
